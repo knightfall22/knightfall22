@@ -16,5 +16,3 @@ I am an aspiring distributed systems engineer with over 3+ years working profess
 
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=knightfall22&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=knightfall22&theme=github_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=knightfall22&theme=github_dark) |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=knightfall22&theme=github_dark)
