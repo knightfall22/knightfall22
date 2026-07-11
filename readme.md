@@ -8,6 +8,7 @@ I am an aspiring distributed systems engineer with over 5+ years working profess
 
 - [Kazam](https://github.com/knightfall22/ka-zam-reader) - lightweight cbr reader built with in GO
 - [nin](https://github.com/knightfall22/nin) - local network file P2P file sharing tool
+- [Augusta](https://github.com/knightfall22/augusta) - distributed task scheduler
 
 ## 📊 Stats For Dorks
 
